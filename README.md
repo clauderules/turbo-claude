@@ -2,11 +2,11 @@
 
 > A live-synced index of community CLAUDE.md rules, MCP servers, Claude Code skills, and agents — sourced from [clauderules.net](https://clauderules.net). Updated automatically via GitHub Actions. Add yours by submitting at [clauderules.net/submit](https://clauderules.net/submit).
 
-[![Listed on clauderules.net](https://clauderules.net/api/badge.svg)](https://clauderules.net)
+[![Listed on clauderules.net](https://clauderules.net/api/badge)](https://clauderules.net)
 ![Rules](https://img.shields.io/badge/rules-15-orange)
 ![MCP Servers](https://img.shields.io/badge/mcp%20servers-9-blue)
 ![Skills](https://img.shields.io/badge/skills-10-green)
-![Last synced](https://img.shields.io/badge/last%20synced-2026-03-06-lightgrey)
+![Last synced](https://img.shields.io/badge/last%20synced-2026--03--06-lightgrey)
 
 ---
 

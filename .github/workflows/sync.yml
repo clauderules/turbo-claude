@@ -1,0 +1,28 @@
+name: Sync from clauderules.net
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # Daily at 6am UTC
+  workflow_dispatch:        # Allow manual trigger from GitHub UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest list from clauderules.net
+        run: curl -sf https://clauderules.net/api/awesome-list > README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet && echo "No changes to commit." || (
+            git commit -m "chore: sync from clauderules.net [skip ci]"
+            git push
+          )

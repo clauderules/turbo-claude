@@ -6,7 +6,7 @@
 ![Rules](https://img.shields.io/badge/rules-15-orange)
 ![MCP Servers](https://img.shields.io/badge/mcp%20servers-9-blue)
 ![Skills](https://img.shields.io/badge/skills-10-green)
-![Last synced](https://img.shields.io/badge/last%20synced-2026--04--10-lightgrey)
+![Last synced](https://img.shields.io/badge/last%20synced-2026--04--11-lightgrey)
 
 ---
 
@@ -19,13 +19,13 @@ CLAUDE.md rules tell Claude Code how to behave in your project — coding conven
 | [Next.js Expert](https://clauderules.net/rules/nextjs-expert) | Expert-level Next.js development with App Router, Server Components, and modern patterns. |
 | [Python FastAPI Expert](https://clauderules.net/rules/python-fastapi) | Building high-performance REST APIs with FastAPI, Pydantic, and async Python. |
 | [React TypeScript Best Practices](https://clauderules.net/rules/react-typescript) | Modern React development with TypeScript, hooks, and component patterns. |
-| [Go Backend Development](https://clauderules.net/rules/golang-backend) | Building robust, idiomatic Go services with clean architecture and proper error handling. |
 | [Node.js Express API](https://clauderules.net/rules/nodejs-express) | Building scalable Node.js REST APIs with Express, middleware, and proper async patterns. |
+| [Go Backend Development](https://clauderules.net/rules/golang-backend) | Building robust, idiomatic Go services with clean architecture and proper error handling. |
 | [TypeScript Clean Code](https://clauderules.net/rules/typescript-clean) | Writing clean, idiomatic TypeScript with proper types, patterns, and architecture. |
-| [Vue.js Composition API](https://clauderules.net/rules/vuejs-composition) | Modern Vue 3 development with Composition API, Pinia, and TypeScript. |
 | [Rust Systems Programming](https://clauderules.net/rules/rust-systems) | Safe, fast Rust code leveraging the ownership system, traits, and zero-cost abstractions. |
-| [Ruby on Rails Expert](https://clauderules.net/rules/ruby-rails) | Convention-over-configuration Rails development with clean models, service objects, and tests. |
+| [Vue.js Composition API](https://clauderules.net/rules/vuejs-composition) | Modern Vue 3 development with Composition API, Pinia, and TypeScript. |
 | [Angular Enterprise](https://clauderules.net/rules/angular-enterprise) | Enterprise Angular development with RxJS, NgRx, standalone components, and best practices. |
+| [Ruby on Rails Expert](https://clauderules.net/rules/ruby-rails) | Convention-over-configuration Rails development with clean models, service objects, and tests. |
 | [SvelteKit Frontend](https://clauderules.net/rules/svelte-frontend) | Modern SvelteKit development with server-side rendering, stores, and TypeScript. |
 | [Django Web Framework](https://clauderules.net/rules/django-python) | Full-stack Django development with DRF, proper models, and security best practices. |
 | [Tailwind CSS Expert](https://clauderules.net/rules/tailwind-css) | Expert Tailwind CSS styling with component patterns, dark mode, and design systems. |

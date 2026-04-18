@@ -6,7 +6,7 @@
 ![Rules](https://img.shields.io/badge/rules-15-orange)
 ![MCP Servers](https://img.shields.io/badge/mcp%20servers-9-blue)
 ![Skills](https://img.shields.io/badge/skills-10-green)
-![Last synced](https://img.shields.io/badge/last%20synced-2026--04--17-lightgrey)
+![Last synced](https://img.shields.io/badge/last%20synced-2026--04--18-lightgrey)
 
 ---
 
@@ -22,10 +22,10 @@ CLAUDE.md rules tell Claude Code how to behave in your project — coding conven
 | [Go Backend Development](https://clauderules.net/rules/golang-backend) | Building robust, idiomatic Go services with clean architecture and proper error handling. |
 | [Node.js Express API](https://clauderules.net/rules/nodejs-express) | Building scalable Node.js REST APIs with Express, middleware, and proper async patterns. |
 | [TypeScript Clean Code](https://clauderules.net/rules/typescript-clean) | Writing clean, idiomatic TypeScript with proper types, patterns, and architecture. |
-| [Ruby on Rails Expert](https://clauderules.net/rules/ruby-rails) | Convention-over-configuration Rails development with clean models, service objects, and tests. |
 | [Rust Systems Programming](https://clauderules.net/rules/rust-systems) | Safe, fast Rust code leveraging the ownership system, traits, and zero-cost abstractions. |
-| [Vue.js Composition API](https://clauderules.net/rules/vuejs-composition) | Modern Vue 3 development with Composition API, Pinia, and TypeScript. |
+| [Ruby on Rails Expert](https://clauderules.net/rules/ruby-rails) | Convention-over-configuration Rails development with clean models, service objects, and tests. |
 | [Angular Enterprise](https://clauderules.net/rules/angular-enterprise) | Enterprise Angular development with RxJS, NgRx, standalone components, and best practices. |
+| [Vue.js Composition API](https://clauderules.net/rules/vuejs-composition) | Modern Vue 3 development with Composition API, Pinia, and TypeScript. |
 | [Django Web Framework](https://clauderules.net/rules/django-python) | Full-stack Django development with DRF, proper models, and security best practices. |
 | [SvelteKit Frontend](https://clauderules.net/rules/svelte-frontend) | Modern SvelteKit development with server-side rendering, stores, and TypeScript. |
 | [Tailwind CSS Expert](https://clauderules.net/rules/tailwind-css) | Expert Tailwind CSS styling with component patterns, dark mode, and design systems. |
@@ -64,9 +64,9 @@ Slash commands for Claude Code that automate common workflows. Install with `cla
 | [Fix Bug](https://clauderules.net/skills/fix-bug) | `/fix` | Analyzes a bug or error and provides a targeted fix with explanation. |
 | [Standup Summary](https://clauderules.net/skills/standup-summary) | `/standup` | Generates a daily standup summary from recent git commits. |
 | [PR Description](https://clauderules.net/skills/pr-description) | `/pr` | Writes a clear pull request description from your commits and changes. |
+| [Refactor Code](https://clauderules.net/skills/refactor) | `/refactor` | Refactors code for better readability, performance, or maintainability. |
 | [Write Documentation](https://clauderules.net/skills/write-docs) | `/docs` | Generates clear documentation for functions, components, or modules. |
 | [Explain Code](https://clauderules.net/skills/explain-code) | `/explain` | Provides a clear explanation of what a piece of code does and why. |
-| [Refactor Code](https://clauderules.net/skills/refactor) | `/refactor` | Refactors code for better readability, performance, or maintainability. |
 | [Security Audit](https://clauderules.net/skills/security-audit) | `/security` | Audits code for security vulnerabilities based on OWASP Top 10. |
 
 ---

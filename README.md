@@ -49,6 +49,8 @@ Model Context Protocol servers extend what Claude can access — databases, GitH
 | [PostgreSQL](https://clauderules.net/mcp/postgres) | Execute SQL queries, explore schema, and interact with PostgreSQL databases safely. |
 | [GitHub](https://clauderules.net/mcp/github) | Interact with GitHub repositories, issues, pull requests, and workflows directly from Claude. |
 | [Filesystem](https://clauderules.net/mcp/filesystem) | Secure file system operations with configurable access controls. Read, write, create, and delete files within allowed directories. |
+| [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) | Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. |
+| [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) | 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 
 ---
 

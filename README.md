@@ -6,7 +6,7 @@
 ![Rules](https://img.shields.io/badge/rules-15-orange)
 ![MCP Servers](https://img.shields.io/badge/mcp%20servers-9-blue)
 ![Skills](https://img.shields.io/badge/skills-10-green)
-![Last synced](https://img.shields.io/badge/last%20synced-2026--04--21-lightgrey)
+![Last synced](https://img.shields.io/badge/last%20synced-2026--04--22-lightgrey)
 
 ---
 
@@ -83,8 +83,8 @@ Reusable agent configurations and sub-agent patterns for Claude Code. Browse at 
 | [Model Context Protocol SDK](https://clauderules.net/agents/model-context-protocol) | Official MCP SDK for building Claude tool integrations. Enables agents to connect Claude to any external system — databases, APIs, filesystems, and custom tools. |
 | [Claude Code GitHub Action](https://clauderules.net/agents/claude-code-action) | Official Anthropic GitHub Action that runs Claude Code as a CI agent. Automatically reviews PRs, fixes bugs, and implements features directly in your GitHub workflow. |
 | [Multi-Agent Orchestration Patterns](https://clauderules.net/agents/multi-agent-orchestration) | Anthropic's reference patterns for orchestrating multiple Claude agents. Covers parallel agents, sequential pipelines, hierarchical agents, and error recovery strategies. |
-| [Claude Agent SDK — Python](https://clauderules.net/agents/claude-agent-sdk-python) | The official Python SDK for building Claude-powered agents. Provides a clean API for multi-turn conversations, tool definitions, streaming, and structured outputs. |
 | [Computer Use Demo Agent](https://clauderules.net/agents/computer-use-demo) | Anthropic's reference implementation of a computer-use agent. Claude controls a virtual desktop — browsing the web, running commands, and interacting with GUI applications. |
+| [Claude Agent SDK — Python](https://clauderules.net/agents/claude-agent-sdk-python) | The official Python SDK for building Claude-powered agents. Provides a clean API for multi-turn conversations, tool definitions, streaming, and structured outputs. |
 | [Claude Agent SDK — TypeScript](https://clauderules.net/agents/claude-agent-sdk-typescript) | The official TypeScript/Node.js SDK for Claude. Build agents with type-safe tool definitions, streaming responses, and comprehensive error handling. |
 | [AWS Bedrock Claude Agents](https://clauderules.net/agents/bedrock-claude-agents) | Deploy Claude agents on AWS using Amazon Bedrock. Includes examples for knowledge base integration, action groups, and enterprise-scale agent deployments. |
 

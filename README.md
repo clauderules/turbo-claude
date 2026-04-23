@@ -6,7 +6,7 @@
 ![Rules](https://img.shields.io/badge/rules-15-orange)
 ![MCP Servers](https://img.shields.io/badge/mcp%20servers-9-blue)
 ![Skills](https://img.shields.io/badge/skills-10-green)
-![Last synced](https://img.shields.io/badge/last%20synced-2026--04--22-lightgrey)
+![Last synced](https://img.shields.io/badge/last%20synced-2026--04--23-lightgrey)
 
 ---
 
@@ -20,8 +20,8 @@ CLAUDE.md rules tell Claude Code how to behave in your project — coding conven
 | [Python FastAPI Expert](https://clauderules.net/rules/python-fastapi) | Building high-performance REST APIs with FastAPI, Pydantic, and async Python. |
 | [React TypeScript Best Practices](https://clauderules.net/rules/react-typescript) | Modern React development with TypeScript, hooks, and component patterns. |
 | [TypeScript Clean Code](https://clauderules.net/rules/typescript-clean) | Writing clean, idiomatic TypeScript with proper types, patterns, and architecture. |
-| [Go Backend Development](https://clauderules.net/rules/golang-backend) | Building robust, idiomatic Go services with clean architecture and proper error handling. |
 | [Node.js Express API](https://clauderules.net/rules/nodejs-express) | Building scalable Node.js REST APIs with Express, middleware, and proper async patterns. |
+| [Go Backend Development](https://clauderules.net/rules/golang-backend) | Building robust, idiomatic Go services with clean architecture and proper error handling. |
 | [Rust Systems Programming](https://clauderules.net/rules/rust-systems) | Safe, fast Rust code leveraging the ownership system, traits, and zero-cost abstractions. |
 | [Ruby on Rails Expert](https://clauderules.net/rules/ruby-rails) | Convention-over-configuration Rails development with clean models, service objects, and tests. |
 | [Angular Enterprise](https://clauderules.net/rules/angular-enterprise) | Enterprise Angular development with RxJS, NgRx, standalone components, and best practices. |
@@ -83,8 +83,8 @@ Reusable agent configurations and sub-agent patterns for Claude Code. Browse at 
 | [Model Context Protocol SDK](https://clauderules.net/agents/model-context-protocol) | Official MCP SDK for building Claude tool integrations. Enables agents to connect Claude to any external system — databases, APIs, filesystems, and custom tools. |
 | [Claude Code GitHub Action](https://clauderules.net/agents/claude-code-action) | Official Anthropic GitHub Action that runs Claude Code as a CI agent. Automatically reviews PRs, fixes bugs, and implements features directly in your GitHub workflow. |
 | [Multi-Agent Orchestration Patterns](https://clauderules.net/agents/multi-agent-orchestration) | Anthropic's reference patterns for orchestrating multiple Claude agents. Covers parallel agents, sequential pipelines, hierarchical agents, and error recovery strategies. |
-| [Computer Use Demo Agent](https://clauderules.net/agents/computer-use-demo) | Anthropic's reference implementation of a computer-use agent. Claude controls a virtual desktop — browsing the web, running commands, and interacting with GUI applications. |
 | [Claude Agent SDK — Python](https://clauderules.net/agents/claude-agent-sdk-python) | The official Python SDK for building Claude-powered agents. Provides a clean API for multi-turn conversations, tool definitions, streaming, and structured outputs. |
+| [Computer Use Demo Agent](https://clauderules.net/agents/computer-use-demo) | Anthropic's reference implementation of a computer-use agent. Claude controls a virtual desktop — browsing the web, running commands, and interacting with GUI applications. |
 | [Claude Agent SDK — TypeScript](https://clauderules.net/agents/claude-agent-sdk-typescript) | The official TypeScript/Node.js SDK for Claude. Build agents with type-safe tool definitions, streaming responses, and comprehensive error handling. |
 | [AWS Bedrock Claude Agents](https://clauderules.net/agents/bedrock-claude-agents) | Deploy Claude agents on AWS using Amazon Bedrock. Includes examples for knowledge base integration, action groups, and enterprise-scale agent deployments. |
 

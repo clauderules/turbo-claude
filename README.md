@@ -6,7 +6,7 @@
 ![Rules](https://img.shields.io/badge/rules-15-orange)
 ![MCP Servers](https://img.shields.io/badge/mcp%20servers-9-blue)
 ![Skills](https://img.shields.io/badge/skills-10-green)
-![Last synced](https://img.shields.io/badge/last%20synced-2026--04--24-lightgrey)
+![Last synced](https://img.shields.io/badge/last%20synced-2026--04--25-lightgrey)
 
 ---
 
@@ -25,8 +25,8 @@ CLAUDE.md rules tell Claude Code how to behave in your project — coding conven
 | [Rust Systems Programming](https://clauderules.net/rules/rust-systems) | Safe, fast Rust code leveraging the ownership system, traits, and zero-cost abstractions. |
 | [Ruby on Rails Expert](https://clauderules.net/rules/ruby-rails) | Convention-over-configuration Rails development with clean models, service objects, and tests. |
 | [Vue.js Composition API](https://clauderules.net/rules/vuejs-composition) | Modern Vue 3 development with Composition API, Pinia, and TypeScript. |
-| [Django Web Framework](https://clauderules.net/rules/django-python) | Full-stack Django development with DRF, proper models, and security best practices. |
 | [Angular Enterprise](https://clauderules.net/rules/angular-enterprise) | Enterprise Angular development with RxJS, NgRx, standalone components, and best practices. |
+| [Django Web Framework](https://clauderules.net/rules/django-python) | Full-stack Django development with DRF, proper models, and security best practices. |
 | [SvelteKit Frontend](https://clauderules.net/rules/svelte-frontend) | Modern SvelteKit development with server-side rendering, stores, and TypeScript. |
 | [Tailwind CSS Expert](https://clauderules.net/rules/tailwind-css) | Expert Tailwind CSS styling with component patterns, dark mode, and design systems. |
 | [Swift iOS Development](https://clauderules.net/rules/swift-ios) | Modern iOS development with SwiftUI, Combine, and Swift concurrency. |
@@ -60,8 +60,8 @@ Slash commands for Claude Code that automate common workflows. Install with `cla
 |---|---|---|
 | [Code Review](https://clauderules.net/skills/code-review) | `/review` | Performs a thorough code review of the current changes or specified files. |
 | [Generate Tests](https://clauderules.net/skills/generate-tests) | `/test` | Generates comprehensive unit tests for the specified function or file. |
-| [Generate Commit Message](https://clauderules.net/skills/commit-message) | `/commit` | Generates a conventional commit message based on your staged changes. |
 | [Fix Bug](https://clauderules.net/skills/fix-bug) | `/fix` | Analyzes a bug or error and provides a targeted fix with explanation. |
+| [Generate Commit Message](https://clauderules.net/skills/commit-message) | `/commit` | Generates a conventional commit message based on your staged changes. |
 | [PR Description](https://clauderules.net/skills/pr-description) | `/pr` | Writes a clear pull request description from your commits and changes. |
 | [Standup Summary](https://clauderules.net/skills/standup-summary) | `/standup` | Generates a daily standup summary from recent git commits. |
 | [Refactor Code](https://clauderules.net/skills/refactor) | `/refactor` | Refactors code for better readability, performance, or maintainability. |
@@ -80,8 +80,8 @@ Reusable agent configurations and sub-agent patterns for Claude Code. Browse at 
 | [Anthropic Cookbook — Agent Recipes](https://clauderules.net/agents/anthropic-cookbook) | Official collection of agent patterns and recipes from Anthropic. Includes tool use, multi-agent orchestration, memory management, and real-world agent implementations. |
 | [Financial Data Analyst Agent](https://clauderules.net/agents/financial-data-analyst) | A multi-tool agent that analyzes financial data, queries databases, generates charts, and produces structured investment research reports using Claude. |
 | [Customer Support Agent Starter](https://clauderules.net/agents/customer-support-agent) | Anthropic's quickstart for building a production-ready customer support agent with Claude. Includes conversation management, tool use for order lookups, and escalation logic. |
-| [Model Context Protocol SDK](https://clauderules.net/agents/model-context-protocol) | Official MCP SDK for building Claude tool integrations. Enables agents to connect Claude to any external system — databases, APIs, filesystems, and custom tools. |
 | [Claude Agent SDK — Python](https://clauderules.net/agents/claude-agent-sdk-python) | The official Python SDK for building Claude-powered agents. Provides a clean API for multi-turn conversations, tool definitions, streaming, and structured outputs. |
+| [Model Context Protocol SDK](https://clauderules.net/agents/model-context-protocol) | Official MCP SDK for building Claude tool integrations. Enables agents to connect Claude to any external system — databases, APIs, filesystems, and custom tools. |
 | [Multi-Agent Orchestration Patterns](https://clauderules.net/agents/multi-agent-orchestration) | Anthropic's reference patterns for orchestrating multiple Claude agents. Covers parallel agents, sequential pipelines, hierarchical agents, and error recovery strategies. |
 | [Claude Code GitHub Action](https://clauderules.net/agents/claude-code-action) | Official Anthropic GitHub Action that runs Claude Code as a CI agent. Automatically reviews PRs, fixes bugs, and implements features directly in your GitHub workflow. |
 | [Computer Use Demo Agent](https://clauderules.net/agents/computer-use-demo) | Anthropic's reference implementation of a computer-use agent. Claude controls a virtual desktop — browsing the web, running commands, and interacting with GUI applications. |

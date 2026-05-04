@@ -6,7 +6,7 @@
 ![Rules](https://img.shields.io/badge/rules-15-orange)
 ![MCP Servers](https://img.shields.io/badge/mcp%20servers-9-blue)
 ![Skills](https://img.shields.io/badge/skills-10-green)
-![Last synced](https://img.shields.io/badge/last%20synced-2026--05--03-lightgrey)
+![Last synced](https://img.shields.io/badge/last%20synced-2026--05--04-lightgrey)
 
 ---
 
@@ -65,8 +65,8 @@ Slash commands for Claude Code that automate common workflows. Install with `cla
 | [PR Description](https://clauderules.net/skills/pr-description) | `/pr` | Writes a clear pull request description from your commits and changes. |
 | [Standup Summary](https://clauderules.net/skills/standup-summary) | `/standup` | Generates a daily standup summary from recent git commits. |
 | [Refactor Code](https://clauderules.net/skills/refactor) | `/refactor` | Refactors code for better readability, performance, or maintainability. |
-| [Write Documentation](https://clauderules.net/skills/write-docs) | `/docs` | Generates clear documentation for functions, components, or modules. |
 | [Explain Code](https://clauderules.net/skills/explain-code) | `/explain` | Provides a clear explanation of what a piece of code does and why. |
+| [Write Documentation](https://clauderules.net/skills/write-docs) | `/docs` | Generates clear documentation for functions, components, or modules. |
 | [Security Audit](https://clauderules.net/skills/security-audit) | `/security` | Audits code for security vulnerabilities based on OWASP Top 10. |
 
 ---

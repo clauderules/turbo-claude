@@ -6,7 +6,7 @@
 ![Rules](https://img.shields.io/badge/rules-122-orange)
 ![MCP Servers](https://img.shields.io/badge/mcp%20servers-591-blue)
 ![Skills](https://img.shields.io/badge/skills-10-green)
-![Last synced](https://img.shields.io/badge/last%20synced-2026--07--25-lightgrey)
+![Last synced](https://img.shields.io/badge/last%20synced-2026--07--26-lightgrey)
 
 ---
 
@@ -22,8 +22,8 @@ CLAUDE.md rules tell Claude Code how to behave in your project — coding conven
 | [Claude Codex Settings CLAUDE.md](https://clauderules.net/rules/claude-codex-settings-claude-md) | My personal Claude Code and OpenAI Codex setup with battle-tested skills, plugins, hooks and agents that I use daily. |
 | [Sing Box Sub Converter CLAUDE.md](https://clauderules.net/rules/sing-box-sub-converter-claude-md) | 合并、转换singbox配置，代码参考自 https://github.com/Toperlock/sing-box-subscribe |
 | [Lerna CLAUDE.md](https://clauderules.net/rules/lerna-claude-md) | Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository. |
-| [Transcriber CLAUDE.md](https://clauderules.net/rules/transcriber-claude-md) | Automated video-to-text transcription powered by ElevenLabs Scribe API with multi-language support and speaker diarization |
 | [Minimal Second Brain CLAUDE.md](https://clauderules.net/rules/minimal-second-brain-claude-md) | A minimal, AI-native Obsidian vault template. 3 folders, manifest files for Claude/Copilot, automated maintenance. |
+| [Transcriber CLAUDE.md](https://clauderules.net/rules/transcriber-claude-md) | Automated video-to-text transcription powered by ElevenLabs Scribe API with multi-language support and speaker diarization |
 | [Teamster CLAUDE.md](https://clauderules.net/rules/teamster-claude-md) | A modern data stack for K-12 education |
 | [Ollama Opencode Setup CLAUDE.md](https://clauderules.net/rules/ollama-opencode-setup-claude-md) | Ollama + Open Code Setup |
 | [Tree Sitter Analyzer CLAUDE.md](https://clauderules.net/rules/tree-sitter-analyzer-claude-md) | A scalable, multi-language code analysis framework based on Tree-sitter, usable both as a CLI tool and an MCP server. |
@@ -32,8 +32,8 @@ CLAUDE.md rules tell Claude Code how to behave in your project — coding conven
 | [AI Agents CLAUDE.md](https://clauderules.net/rules/ai-agents-claude-md) | Multi-agent system for software development |
 | [Claude Homelab CLAUDE.md](https://clauderules.net/rules/claude-homelab-claude-md) | Comprehensive Agents, Commands, Hooks, and Skills for homelab service management - media automation, infrastructure monitoring, document management, and more |
 | [Teamcity Mcp CLAUDE.md](https://clauderules.net/rules/teamcity-mcp-claude-md) | Model Context Protocol (MCP) server for JetBrains TeamCity: control builds, tests, agents and configs from AI coding assistants. |
-| [Lightning Mpp Sdk CLAUDE.md](https://clauderules.net/rules/lightning-mpp-sdk-claude-md) | Lightning MPP SDK |
 | [Awesome Claude Notes CLAUDE.md](https://clauderules.net/rules/awesome-claude-notes-claude-md) | 🏄 帮助你快速搭建 Claude Code 与 AI Agent 生产力工作流的实战仓库 🏄 A practical toolkit to help you quickly build high-productivity workflows for Claude Code and AI agents |
+| [Lightning Mpp Sdk CLAUDE.md](https://clauderules.net/rules/lightning-mpp-sdk-claude-md) | Lightning MPP SDK |
 | [Claude Code Setup CLAUDE.md](https://clauderules.net/rules/claude-code-setup-claude-md) | Comprehensive Claude Code configuration with agents, skills, hooks, and automation |
 | [Claude Skills CLAUDE.md](https://clauderules.net/rules/claude-skills-claude-md) | 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. |
 | [Shadowsky CLAUDE.md](https://clauderules.net/rules/shadowsky-claude-md) | CLAUDE.md for the Shadowsky project (TypeScript). |
@@ -55,51 +55,51 @@ CLAUDE.md rules tell Claude Code how to behave in your project — coding conven
 | [CodeScaleBench CLAUDE.md](https://clauderules.net/rules/codescalebench-claude-md) | CLAUDE.md for the CodeScaleBench project (Shell). |
 | [Cc Plugin Catalog CLAUDE.md](https://clauderules.net/rules/cc-plugin-catalog-claude-md) | Static site generator for Claude Code Plugin Marketplace repositories |
 | [Agents Js CLAUDE.md](https://clauderules.net/rules/agents-js-claude-md) | Build realtime multimodal AI agents with Node.js |
-| [Sandbox Agent CLAUDE.md](https://clauderules.net/rules/sandbox-agent-claude-md) | Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp. |
 | [Interpreted Context Methdology CLAUDE.md](https://clauderules.net/rules/interpreted-context-methdology-claude-md) | Folder structure as agent architecture.  ICM replaces framework-level orchestration with filesystem structure. |
-| [Workos Python CLAUDE.md](https://clauderules.net/rules/workos-python-claude-md) | Official Python SDK for interacting with the WorkOS API |
+| [Sandbox Agent CLAUDE.md](https://clauderules.net/rules/sandbox-agent-claude-md) | Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp. |
 | [Agentapi Proxy CLAUDE.md](https://clauderules.net/rules/agentapi-proxy-claude-md) | Proxy and Process Provisioner for coder/agentapi |
-| [Q Skills CLAUDE.md](https://clauderules.net/rules/q-skills-claude-md) | End-to-end skills for academic writing, data analysis, teaching, and research communication. |
+| [Workos Python CLAUDE.md](https://clauderules.net/rules/workos-python-claude-md) | Official Python SDK for interacting with the WorkOS API |
 | [Drawio Mcp CLAUDE.md](https://clauderules.net/rules/drawio-mcp-claude-md) | CLAUDE.md for the Drawio Mcp project (JavaScript). |
+| [Q Skills CLAUDE.md](https://clauderules.net/rules/q-skills-claude-md) | End-to-end skills for academic writing, data analysis, teaching, and research communication. |
 | [Aptos Docs CLAUDE.md](https://clauderules.net/rules/aptos-docs-claude-md) | Documentation for the Aptos Blockchain |
 | [Ggsql CLAUDE.md](https://clauderules.net/rules/ggsql-claude-md) | A SQL extension for declarative data visualisation based on the Grammar of Graphics. |
-| [Open Mist CLAUDE.md](https://clauderules.net/rules/open-mist-claude-md) | 破雾、寻光 |
 | [Dataops Observability Agents CLAUDE.md](https://clauderules.net/rules/dataops-observability-agents-claude-md) | DataOps Observability Integration Agents are part of DataKitchen's Open Source Data Observability. They connect to various ETL, ELT, BI, data science, data visu |
 | [Spec To Agents CLAUDE.md](https://clauderules.net/rules/spec-to-agents-claude-md) | A multi-agent event planning workflow built with Microsoft Agent Framework - combining Semantic Kernel's enterprise orchestration with AutoGen's multi-agent pat |
-| [CCProxy CLAUDE.md](https://clauderules.net/rules/ccproxy-claude-md) | 🌾 🥳 🌋 🏰 🌅 🌕 Claude Code Proxy 🌖 🌔 🌈 🏆 👑 |
+| [Open Mist CLAUDE.md](https://clauderules.net/rules/open-mist-claude-md) | 破雾、寻光 |
 | [Awesome PHM Paper Agent CLAUDE.md](https://clauderules.net/rules/awesome-phm-paper-agent-claude-md) | APPA |
-| [Opentrace CLAUDE.md](https://clauderules.net/rules/opentrace-claude-md) | OpenTrace is a knowledge graph platform that maps system architecture, code structure, and service relationships giving you a visual, queryable map of how your |
 | [Go Util CLAUDE.md](https://clauderules.net/rules/go-util-claude-md) | 一些自用的go工具 |
+| [CCProxy CLAUDE.md](https://clauderules.net/rules/ccproxy-claude-md) | 🌾 🥳 🌋 🏰 🌅 🌕 Claude Code Proxy 🌖 🌔 🌈 🏆 👑 |
+| [Opentrace CLAUDE.md](https://clauderules.net/rules/opentrace-claude-md) | OpenTrace is a knowledge graph platform that maps system architecture, code structure, and service relationships giving you a visual, queryable map of how your |
 | [Humanize CLAUDE.md](https://clauderules.net/rules/humanize-claude-md) | CLAUDE.md for the Humanize project (Python). |
 | [Rego CLAUDE.md](https://clauderules.net/rules/rego-claude-md) | ReGo provides a robust foundation for inter-service operations with dedicated service clients and helper functions. |
-| [Iam Policy Validator CLAUDE.md](https://clauderules.net/rules/iam-policy-validator-claude-md) | ⚡ Stop IAM misconfigurations before they become breaches — Catch overprivileged permissions, dangerous wildcards, and policy errors before deployment. |
 | [Flxify CLAUDE.md](https://clauderules.net/rules/flxify-claude-md) | Flxify is a Swiss Army knife for developers — a lightweight, privacy-first text transformation tool built with no frameworks and zero external dependencies. |
-| [Nexent CLAUDE.md](https://clauderules.net/rules/nexent-claude-md) | Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestr |
-| [Prql CLAUDE.md](https://clauderules.net/rules/prql-claude-md) | PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement |
-| [PocketWatch CLAUDE.md](https://clauderules.net/rules/pocketwatch-claude-md) | CLAUDE.md for the PocketWatch project (TypeScript). |
-| [Helm Charts CLAUDE.md](https://clauderules.net/rules/helm-charts-claude-md) | Helm Charts for various Applications |
-| [Tapo CLAUDE.md](https://clauderules.net/rules/tapo-claude-md) | 🦀 Rust API, 🐍 Python API, and 🤖 MCP Server for TP-Link Tapo smart devices |
 | [Experimental Psychology CLAUDE.md](https://clauderules.net/rules/experimental-psychology-claude-md) | Course materials for PSYC 11: Laboratory in Psychological Science, Dartmouth College (Instructor: Jeremy Manning) |
+| [PocketWatch CLAUDE.md](https://clauderules.net/rules/pocketwatch-claude-md) | CLAUDE.md for the PocketWatch project (TypeScript). |
+| [Nexent CLAUDE.md](https://clauderules.net/rules/nexent-claude-md) | Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestr |
 | [Blog CLAUDE.md](https://clauderules.net/rules/blog-claude-md) | CLAUDE.md for the Blog project (Python). |
-| [OmoiOS CLAUDE.md](https://clauderules.net/rules/omoios-claude-md) | Spec-driven multi-agent orchestration — autonomous development workforce powered by Claude & OpenHands |
+| [Iam Policy Validator CLAUDE.md](https://clauderules.net/rules/iam-policy-validator-claude-md) | ⚡ Stop IAM misconfigurations before they become breaches — Catch overprivileged permissions, dangerous wildcards, and policy errors before deployment. |
+| [Prql CLAUDE.md](https://clauderules.net/rules/prql-claude-md) | PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement |
+| [Tapo CLAUDE.md](https://clauderules.net/rules/tapo-claude-md) | 🦀 Rust API, 🐍 Python API, and 🤖 MCP Server for TP-Link Tapo smart devices |
+| [Helm Charts CLAUDE.md](https://clauderules.net/rules/helm-charts-claude-md) | Helm Charts for various Applications |
 | [Roo Logger CLAUDE.md](https://clauderules.net/rules/roo-logger-claude-md) | An MCP server for logging activity in Roo Code/Cline. |
-| [Context Creator CLAUDE.md](https://clauderules.net/rules/context-creator-claude-md) | A high-performance Rust CLI for optimizing context engineering in agentic programming. |
+| [OmoiOS CLAUDE.md](https://clauderules.net/rules/omoios-claude-md) | Spec-driven multi-agent orchestration — autonomous development workforce powered by Claude & OpenHands |
 | [Linkedrecords CLAUDE.md](https://clauderules.net/rules/linkedrecords-claude-md) | A BaaS (Backend-as-a-Service) solution for web applications, inspired by the flexible nature of triplestores. Featuring real-time collaboration and serverless a |
 | [Dspy Demo CLAUDE.md](https://clauderules.net/rules/dspy-demo-claude-md) | CLAUDE.md for the Dspy Demo project (Python). |
+| [Context Creator CLAUDE.md](https://clauderules.net/rules/context-creator-claude-md) | A high-performance Rust CLI for optimizing context engineering in agentic programming. |
 | [Repo Posts CLAUDE.md](https://clauderules.net/rules/repo-posts-claude-md) | CLAUDE.md for the Repo Posts project (Python). |
 | [LabelU CLAUDE.md](https://clauderules.net/rules/labelu-claude-md) | Open-source multimodal data annotation platform with AI auto-annotation support. |
 | [Deltio CLAUDE.md](https://clauderules.net/rules/deltio-claude-md) | A Google Cloud Pub/Sub emulator alternative, written in Rust. |
 | [Trivy Plugin Zarf CLAUDE.md](https://clauderules.net/rules/trivy-plugin-zarf-claude-md) | a plugin for scanning images contained in a Zarf package |
+| [Beyond Scale Language Data Diversity CLAUDE.md](https://clauderules.net/rules/beyond-scale-language-data-diversity-claude-md) | CLAUDE.md for the Beyond Scale Language Data Diversity project (Python). |
 | [Atlcli CLAUDE.md](https://clauderules.net/rules/atlcli-claude-md) | A blazingly fast CLI for Atlassian products. Sync Confluence pages as markdown, manage Jira issues from your terminal. |
 | [Strava CLI CLAUDE.md](https://clauderules.net/rules/strava-cli-claude-md) | Agent-first CLI for the Strava API |
 | [PHM Vibench CLAUDE.md](https://clauderules.net/rules/phm-vibench-claude-md) | CLAUDE.md for the PHM Vibench project (Jupyter Notebook). |
-| [Beyond Scale Language Data Diversity CLAUDE.md](https://clauderules.net/rules/beyond-scale-language-data-diversity-claude-md) | CLAUDE.md for the Beyond Scale Language Data Diversity project (Python). |
-| [Fog CLAUDE.md](https://clauderules.net/rules/fog-claude-md) | Tool for managing your CloudFormation |
 | [Llmitm V2 CLAUDE.md](https://clauderules.net/rules/llmitm-v2-claude-md) | Autonomous pentesting agent — Claude Code Hackathon (Feb 10-16, 2026). The LLM builds the automation that replaces itself. |
+| [Fog CLAUDE.md](https://clauderules.net/rules/fog-claude-md) | Tool for managing your CloudFormation |
+| [Yaml Serde CLAUDE.md](https://clauderules.net/rules/yaml-serde-claude-md) | Strongly typed YAML library for Rust |
+| [React Joyride CLAUDE.md](https://clauderules.net/rules/react-joyride-claude-md) | Create guided tours in your apps |
 | [BYAN CLAUDE.md](https://clauderules.net/rules/byan-claude-md) | Des agent IA mais intelligent qui respect toute les bonne pratique de conception |
 | [Terraform Cloud Mcp CLAUDE.md](https://clauderules.net/rules/terraform-cloud-mcp-claude-md) | A Model Context Protocol (MCP) server that integrates AI assistants with the Terraform Cloud API, allowing you to manage your infrastructure through natural con |
-| [React Joyride CLAUDE.md](https://clauderules.net/rules/react-joyride-claude-md) | Create guided tours in your apps |
-| [Yaml Serde CLAUDE.md](https://clauderules.net/rules/yaml-serde-claude-md) | Strongly typed YAML library for Rust |
 | [Anytype CLI CLAUDE.md](https://clauderules.net/rules/anytype-cli-claude-md) | A command-line interface for interacting with Anytype. |
 | [Autopus Adk CLAUDE.md](https://clauderules.net/rules/autopus-adk-claude-md) | Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastest). Architecture-as-Code, Lore decision |
 | [KnowSeams CLAUDE.md](https://clauderules.net/rules/knowseams-claude-md) | Fast, accurate sentence detection for English narrative with proper dialog handling. |
@@ -108,29 +108,29 @@ CLAUDE.md rules tell Claude Code how to behave in your project — coding conven
 | [MacDirStat CLAUDE.md](https://clauderules.net/rules/macdirstat-claude-md) | Free, open-source disk space analyzer for macOS. WinDirStat for Mac in 2026. Interactive treemap visualization, fast BSD-level scanning, native SwiftUI app. Fin |
 | [AppClaw CLAUDE.md](https://clauderules.net/rules/appclaw-claude-md) | AI-powered mobile automation agent — describe what you want in plain English, AppClaw reads the screen, reasons, and acts. LLM-agnostic, open-source, zero telem |
 | [Unity Explorer CLAUDE.md](https://clauderules.net/rules/unity-explorer-claude-md) | Unity Explorer is the official desktop client implementation for Decentraland 2.0, allowing users to explore and interact with the Decentraland metaverse using |
-| [Llm Trader CLAUDE.md](https://clauderules.net/rules/llm-trader-claude-md) | Autonomous AI-powered stock trading agent with multi-model support (GPT-4o, Claude, Gemini) and Alpaca paper trading integration |
 | [Remilama CLAUDE.md](https://clauderules.net/rules/remilama-claude-md) | Realtime online document review system |
-| [Nanoclaw CLAUDE.md](https://clauderules.net/rules/nanoclaw-claude-md) | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has |
+| [Llm Trader CLAUDE.md](https://clauderules.net/rules/llm-trader-claude-md) | Autonomous AI-powered stock trading agent with multi-model support (GPT-4o, Claude, Gemini) and Alpaca paper trading integration |
 | [AI Tools CLAUDE.md](https://clauderules.net/rules/ai-tools-claude-md) | A collection of tools for Claude Code to operate more efficiently |
+| [Nanoclaw CLAUDE.md](https://clauderules.net/rules/nanoclaw-claude-md) | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has |
 | [Slicc CLAUDE.md](https://clauderules.net/rules/slicc-claude-md) | A browser-native AI agent (claw) for everyone that loves ice cream |
 | [TORCH Glare CLAUDE.md](https://clauderules.net/rules/torch-glare-claude-md) | An open-source React UI library featuring accessible, elegant components — seamlessly styled with Tailwind CSS and fully extensible. |
 | [Thepopebot CLAUDE.md](https://clauderules.net/rules/thepopebot-claude-md) | The Pope Bot is an autonomous AI agent that you can configure and build to do just about anything you want, all day, everyday, 24/7. |
-| [Cc Dejavu CLAUDE.md](https://clauderules.net/rules/cc-dejavu-claude-md) | CLI tool to search and browse Claude Code bash command history |
 | [Stratal CLAUDE.md](https://clauderules.net/rules/stratal-claude-md) | A modular framework for building Cloudflare Workers with dependency injection, OpenAPI documentation, queues, cron jobs, and more. |
+| [Cc Dejavu CLAUDE.md](https://clauderules.net/rules/cc-dejavu-claude-md) | CLI tool to search and browse Claude Code bash command history |
 | [Sdk CLAUDE.md](https://clauderules.net/rules/sdk-claude-md) | GalaChain SDK allows you to develop, test, call and deploy chaincodes on GalaChain |
-| [N8n Nodes Substack CLAUDE.md](https://clauderules.net/rules/n8n-nodes-substack-claude-md) | The n8n Substack node allows to integrate Substack with n8n workflows. |
 | [Oh My Toong Playground CLAUDE.md](https://clauderules.net/rules/oh-my-toong-playground-claude-md) | CLAUDE.md for the Oh My Toong Playground project (TypeScript). |
+| [N8n Nodes Substack CLAUDE.md](https://clauderules.net/rules/n8n-nodes-substack-claude-md) | The n8n Substack node allows to integrate Substack with n8n workflows. |
 | [Aphex CLAUDE.md](https://clauderules.net/rules/aphex-claude-md) | A modern, extensible headless CMS built with SvelteKit, featuring a portable core package, database/storage agnostic adapters, and a Sanity-inspired admin inter |
 | [Lula CLAUDE.md](https://clauderules.net/rules/lula-claude-md) | A tool for managing compliance as code in your GitHub repositories. :unicorn: |
-| [Ag Ui 4j CLAUDE.md](https://clauderules.net/rules/ag-ui-4j-claude-md) | AG-UI 4 Java |
-| [Braintree Web CLAUDE.md](https://clauderules.net/rules/braintree-web-claude-md) | A suite of tools for integrating Braintree in the browser |
-| [Claude Code Webui CLAUDE.md](https://clauderules.net/rules/claude-code-webui-claude-md) | Web-based interface for Claude CLI with streaming chat responses |
 | [Elics CLAUDE.md](https://clauderules.net/rules/elics-claude-md) | lightweight, flexible ECS for web games |
+| [Ag Ui 4j CLAUDE.md](https://clauderules.net/rules/ag-ui-4j-claude-md) | AG-UI 4 Java |
+| [Claude Code Webui CLAUDE.md](https://clauderules.net/rules/claude-code-webui-claude-md) | Web-based interface for Claude CLI with streaming chat responses |
+| [Braintree Web CLAUDE.md](https://clauderules.net/rules/braintree-web-claude-md) | A suite of tools for integrating Braintree in the browser |
 | [VibeHub CLAUDE.md](https://clauderules.net/rules/vibehub-claude-md) | A macOS app that brings a Dynamic Island-style overlay for monitoring Claude Code and OpenCode CLI sessions. A claude island fork |
 | [Vigiles CLAUDE.md](https://clauderules.net/rules/vigiles-claude-md) | CLAUDE.md for the Vigiles project (TypeScript). |
 | [Pkg To Jsr CLAUDE.md](https://clauderules.net/rules/pkg-to-jsr-claude-md) | Zero-config tool that generates jsr.json from package.json |
-| [Aios CLAUDE.md](https://clauderules.net/rules/aios-claude-md) | AIOS — AI Operating System. A 5-layer AI OS that wraps around any business: Context, Data, Intelligence, Automation, Build. |
 | [Markdown Flow CLAUDE.md](https://clauderules.net/rules/markdown-flow-claude-md) | MarkdownFlow extends standard Markdown with AI to create personalized, interactive documents. Tagline: "Write Once, Deliver Personally" |
+| [Aios CLAUDE.md](https://clauderules.net/rules/aios-claude-md) | AIOS — AI Operating System. A 5-layer AI OS that wraps around any business: Context, Data, Intelligence, Automation, Build. |
 | [Laravel Dynamodb CLAUDE.md](https://clauderules.net/rules/laravel-dynamodb-claude-md) | A DynamoDB based Eloquent model and Query builder for Laravel. |
 | [Nudgy CLAUDE.md](https://clauderules.net/rules/nudgy-claude-md) | Native macOS menu bar app that notifies you when AI coding agents (Claude Code) finish tasks, need permissions, or ask questions. Privacy-first, zero dependenci |
 | [Camille CLAUDE.md](https://clauderules.net/rules/camille-claude-md) | CLAUDE.md for the Camille project (TypeScript). |

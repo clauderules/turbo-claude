@@ -147,6 +147,7 @@ Model Context Protocol servers extend what Claude can access — databases, GitH
 
 | Server | Description |
 |---|---|
+| [Statsnet](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` |
 | [ToolHive](https://clauderules.net/mcp/toolhive) | A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization by **** |
 | [Open-Sourced MCP Servers Directory](https://clauderules.net/mcp/open-sourced-mcp-servers-directory) | A curated list of MCP servers by **** |
 | [MCPWatch](https://clauderules.net/mcp/mcpwatch) | A comprehensive security scanner for Model Context Protocol (MCP) servers that detects vulnerabilities and security issues in your MCP server implementations. |
